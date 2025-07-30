@@ -33,7 +33,18 @@ This is a data analytics project that focuses on Dashboard building using Power 
 - Segment/category insights
 
 ### 5. Dashboard Screenshots
-- Thumbnail snapshots of each page
+- E-commerce Dashboard
+![E-commerce Dashboard](dashboard_e-commerce.jpg)
+
+- Profit and Sales by Year Bar Chart
+
+
+![Profit Sales by Year Bar Chart](profit_sales_year.jpg)
+-
+-
+-  Thumbnail snapshots of each page
+-
+-
 - Short caption explaining purpose
 
 ### 6. Usage Instructions
