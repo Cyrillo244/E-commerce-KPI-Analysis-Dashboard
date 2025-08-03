@@ -5,6 +5,19 @@ This is a data analytics project that focuses on Dashboard building using Power 
 
 - [Project Overview](#project-overview)
 - [Data Source & Collection](#data-source-&-collection)
+- [Data Cleaning & Prep](#data-cleaning-&-prep)
+- [Analytics & Modeling](#analytics-&-modeling)
+- [Dashboard Screenshots](#dashboard-screenshots)
+- [Usage Instructions](#usage-instructions)
+- [Key Findings & Recommendations](#key-findings-&-recommendations)
+- [Limitations & Next Steps](#limitations-&-next-steps)
+- [License & Credits](#license-&-credits)
+
+
+
+
+
+
 
 ### 1. Project Overview
 - This project is about sales data from a skincare and beauty E-commerce global store  
@@ -33,18 +46,18 @@ This is a data analytics project that focuses on Dashboard building using Power 
 - Segment/category insights
 
 ### 5. Dashboard Screenshots
-- E-commerce Dashboard
+- ### E-commerce Dashboard
 ![E-commerce Dashboard](dashboard_e-commerce.jpg)
 
-- Profit and Sales by Year Bar Chart
-
-
+- ### Profit and Sales by Year Bar Chart
 ![Profit Sales by Year Bar Chart](profit_sales_year.jpg)
 -
+- ### Sum of Sales and Sum of Profit by Market chart
+-  ![Sales and Profit by Market Chart](sales_profit_by_market.jpg)
 -
--  Thumbnail snapshots of each page
--
--
+- ### Profit by Segment Pie Chart
+  ![Profit by Segment Pie Chart](profit_b_segment.jpg)
+
 - Short caption explaining purpose
 
 ### 6. Usage Instructions
@@ -56,7 +69,7 @@ This is a data analytics project that focuses on Dashboard building using Power 
 - The total profit is 1 million
 - The (%) percentage profit margin is 16.35%
 - The % percentage of repeat customers is 65.17% meaning more than half of the customers return to shop again after their first purchase
-- The profit by segment shows that people who work cooperatively generate the most amount of profit
+- The profit by segment shows that people who work cooperatively generate the most profit
 - The top 10 best-selling products generate 4.83% of the % total sales, meaning the total sales of 7 million is spread across the numerous products of the global store
 - Summary of high-level business insights
 - Any quantitative conclusions
