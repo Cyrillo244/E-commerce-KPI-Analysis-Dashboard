@@ -24,16 +24,16 @@ This project focuses on analyzing sales data from a global skincare and beauty e
 
 Key business goals include:
 
-- Achieving an average annual profit margin of 15% across all product groups
+- Achieving an average annual profit margin of **15%** across all product groups
 
-- Driving 20% annual overall sales growth, with a 30% growth target for the corporate segment
+- Driving **20% annual overall sales growth**, with a **30% growth target** for the corporate segment
 
-- Generating at least $400K in annual sales per market
+- Generating at least **$400K in annual sales per market**
 
 The dashboard highlights KPIs and visual insights that help evaluate progress towards these targets.
 
 ### 2. Data Source & Collection
-- Data was sourced from the [FP20 Analytics](https://fp20analytics.com/datasets/) platform, specifically from Challenge 19.
+- Data was sourced from the [FP20 Analytics](https://fp20analytics.com/datasets/) platform, specifically from **Challenge 19**.
 - The dataset contains sales records including order dates, product categories, customer segments, and financial metrics.
 
 ### 3. Data Cleaning & Prep
