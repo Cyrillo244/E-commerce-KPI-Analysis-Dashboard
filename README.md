@@ -46,19 +46,18 @@ This is a data analytics project that focuses on Dashboard building using Power 
 - Segment/category insights
 
 ### 5. Dashboard Screenshots
-- ### E-commerce Dashboard
+ ### E-commerce Dashboard
 ![E-commerce Dashboard](dashboard_e-commerce.jpg)
 
-- ### Profit and Sales by Year Bar Chart
+ ### Profit and Sales by Year Bar Chart
 ![Profit Sales by Year Bar Chart](profit_sales_year.jpg)
--
-- ### Sum of Sales and Sum of Profit by Market chart
--  ![Sales and Profit by Market Chart](sales_profit_by_market.jpg)
--
-- ### Profit by Segment Pie Chart
+
+ ### Sum of Sales and Sum of Profit by Market chart
+  ![Sales and Profit by Market Chart](sales_profit_by_market.jpg)
+
+ ### Profit by Segment Pie Chart
   ![Profit by Segment Pie Chart](profit_b_segment.jpg)
--
-- Short caption explaining purpose
+
 
 ### 6. Usage Instructions
 - How to open a `.pbix` file or view a Power BI template
