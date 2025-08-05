@@ -94,10 +94,20 @@ To view and interact with this dashboard:
 
 
 ### 8. Limitations & Next Steps
-- This data from FP20 analytics is well structured and very easy to use amd did not require a lot of cleaning. 
-- Just a few of the columns had to be renamed 
-- Data quality considerations
-- Suggested enhancements
+**Limitations:**
+
+- The dataset was relatively clean and structured, so limited preprocessing was required
+- No customer demographic data was included, which could have added more personalized insights
+
+**Next Steps:**
+
+- Incorporate customer **satisfaction surveys** or feedback data to enhance retention analysis
+- Integrate **web traffic data** to correlate online behavior with purchase trends
+- Deploy the dashboard to the **Power BI Service** for real-time data updates and sharing
 
 ### 9. License & Credits
-- Acknowledgment of collaborators or tools
+- This project was built using **Microsoft Power BI**, with data provided by **FP20 Analytics**.
+- Dashboard and analysis by **Cyril Obeng-Darko** as part of a personal data analytics portfolio project.
+- Special thanks to the Power BI and data analytics communities for resources and guidance.
+
+
