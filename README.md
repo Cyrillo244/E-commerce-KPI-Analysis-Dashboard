@@ -1,5 +1,5 @@
 # E-commerce-KPI-Analysis-Dashboard
-This is a data analytics project that focuses on Dashboard building using Power BI to generate actionable insights that drive strategic decision-making for an E-store's future growth.
+This data analytics project showcases a comprehensive Power BI dashboard designed to generate actionable insights that drive strategic decision-making for the future growth of an online skincare and beauty store.
 
 ## Table of Contents
 
@@ -20,30 +20,45 @@ This is a data analytics project that focuses on Dashboard building using Power 
 
 
 ### 1. Project Overview
-- This project is about sales data from a skincare and beauty E-commerce global store  
-- The object of this project is to generate insights about the market, product, customers, and sales, etc
-- The main objective is to create a comprehensive Power BI report using the data from the global skin care and beauty shop.
-- This report analyzes sales volumes and profitability across various product groups and markets, focusing on key performance indicators (KPIs) critical to the e-store's success
-- Specifically, the e-store aims to achieve an average annual profit margin of 15% across all product groups
-- It also aims to achieve 20% annual overall sales growth with a higher target of 30% for the corporate segment, and at least $400K in annual sales for each market
+This project focuses on analyzing sales data from a global skincare and beauty e-commerce store. The main goal is to develop a dynamic Power BI dashboard that offers insights into customer behavior, market trends, product performance, and overall business profitability.
+
+Key business goals include:
+
+- Achieving an average annual profit margin of 15% across all product groups
+
+- Driving 20% annual overall sales growth, with a 30% growth target for the corporate segment
+
+- Generating at least $400K in annual sales per market
+
+The dashboard highlights KPIs and visual insights that help evaluate progress towards these targets.
 
 ### 2. Data Source & Collection
-- The data for this study was collected from the FP20 Analytics website, specifically challenge 19.
-- This is the link to the website [FP20 Analytics](https://fp20analytics.com/datasets/)
+- Data was sourced from the [FP20 Analytics](https://fp20analytics.com/datasets/) platform, specifically from Challenge 19.
+- The dataset contains sales records including order dates, product categories, customer segments, and financial metrics.
 
 ### 3. Data Cleaning & Prep
-- Data was cleaned in the Power Query Editor of Power BI 
-- Firstly, the year and month columns were extracted from the order date column using the Power Query editor
-- The profit margin was also calculated
-- A column for the customer order count  was created to calculate and identify the % repeated customers
-- Handling missing or incorrect data
+All data preparation and transformation were performed in Power BI's Power Query Editor:
+
+- Extracted Year and Month columns from the "Order Date" field for time-based analysis
+
+- Calculated a Profit Margin column
+
+- Created a custom column to identify repeat customer orders for customer loyalty analysis
+
+- Removed or corrected missing and inconsistent data entries
+
+- Renamed columns for clarity and standardization
 
 ### 4. Analytics & Modeling
-- The DAx measure was used to calculate the % profit margin to show how much profit the business makes for every dollar of revenue 
-- % of repeat customers was calculated to understand customer loyalty and satisfaction
-- The percentage of total sales spent by a customer was calculated to understand how much individual customers or segments contribute to your revenue
-- Measures and KPIs (DAX logic)
-- Segment/category insights
+Key measures and KPIs were developed using DAX (Data Analysis Expressions) in Power BI:
+
+- % Profit Margin: Indicates how much profit is earned per dollar of revenue
+
+- % Repeat Customers: Measures customer retention and loyalty
+
+- % of Sales by Customer: Highlights how much individual customers or customer segments contribute to total revenue
+
+- Visual and interactive elements reveal performance across product categories, customer segments, markets, and time periods
 
 ### 5. Dashboard Screenshots
  ### E-commerce Dashboard
