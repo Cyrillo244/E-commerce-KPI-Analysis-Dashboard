@@ -74,9 +74,11 @@ Key measures and KPIs were developed using DAX (Data Analysis Expressions) in Po
 
 ### 6. Usage Instructions
 To view and interact with this dashboard:
- 1. Download Power BI Desktop from the [official Microsoft website](https://www.microsoft.com/en-gb/).
+ 1. Download **Power BI Desktop** from the [official Microsoft website](https://www.microsoft.com/en-gb/).
  2. Open the .pbix file included in this project repository (E-commerce KPI analysis Dashboard.pbix).
- 3. Use the slicers and filters provided (such as the Year Filter at the top) to dynamically explore data insights across different timeframes and segments.
+ 3. Use the slicers and filters provided (such as the **Year Filter** at the top) to dynamically explore data insights across different timeframes and segments.
+
+This dashboard is best viewed using **Power BI Desktop version 2.130 or later**.
 
 ### 7. Key Findings & Recommendations
 - **Total Sales** over the three years exceeded **$7 million**
