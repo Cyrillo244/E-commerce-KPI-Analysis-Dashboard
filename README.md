@@ -1,5 +1,5 @@
 # E-commerce-KPI-Analysis-Dashboard
-This is a data analytics project that focuses on Dashboard building using Power BI to generate actionable insights that can drive strategic decision-making for an E-store's future growth.
+This is a data analytics project that focuses on Dashboard building using Power BI to generate actionable insights that drive strategic decision-making for an E-store's future growth.
 
 ## Table of Contents
 
@@ -57,7 +57,7 @@ This is a data analytics project that focuses on Dashboard building using Power 
 -
 - ### Profit by Segment Pie Chart
   ![Profit by Segment Pie Chart](profit_b_segment.jpg)
-
+-
 - Short caption explaining purpose
 
 ### 6. Usage Instructions
