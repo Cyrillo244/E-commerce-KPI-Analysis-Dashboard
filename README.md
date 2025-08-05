@@ -37,13 +37,13 @@ The dashboard highlights KPIs and visual insights that help evaluate progress to
 - The dataset contains sales records including order dates, product categories, customer segments, and financial metrics.
 
 ### 3. Data Cleaning & Prep
-All data preparation and transformation were performed in Power BI's Power Query Editor:
+All data preparation and transformation were performed in **Power BI's Power Query Editor**:
 
-- Extracted Year and Month columns from the "Order Date" field for time-based analysis
+- Extracted **Year** and **Month** columns from the "Order Date" field for time-based analysis
 
-- Calculated a Profit Margin column
+- Calculated a **Profit Margin** column
 
-- Created a custom column to identify repeat customer orders for customer loyalty analysis
+- Created a custom column to identify **repeat customer orders** for customer loyalty analysis
 
 - Removed or corrected missing and inconsistent data entries
 
