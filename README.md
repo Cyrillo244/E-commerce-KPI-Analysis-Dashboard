@@ -50,15 +50,15 @@ All data preparation and transformation were performed in Power BI's Power Query
 - Renamed columns for clarity and standardization
 
 ### 4. Analytics & Modeling
-Key measures and KPIs were developed using DAX (Data Analysis Expressions) in Power BI:
+Key measures and KPIs were developed using **DAX (Data Analysis Expressions)** in Power BI:
 
-- % Profit Margin: Indicates how much profit is earned per dollar of revenue
+- **% Profit Margin:** Indicates how much profit is earned per dollar of revenue
 
-- % Repeat Customers: Measures customer retention and loyalty
+- **% Repeat Customers:** Measures customer retention and loyalty
 
-- % of Sales by Customer: Highlights how much individual customers or customer segments contribute to total revenue
+- **% of Sales by Customer:** Highlights how much individual customers or customer segments contribute to total revenue
 
-- Visual and interactive elements reveal performance across product categories, customer segments, markets, and time periods
+- Visual and interactive elements reveal performance across product categories, customer segments, markets, and periods
 
 ### 5. Dashboard Screenshots
  ### E-commerce Dashboard
