@@ -79,12 +79,12 @@ To view and interact with this dashboard:
  3. Use the slicers and filters provided (such as the Year Filter at the top) to dynamically explore data insights across different timeframes and segments.
 
 ### 7. Key Findings & Recommendations
-- Total Sales over the three-year period exceeded $7 million
-- Total Profit amounted to approximately $1 million
-- The average profit margin stood at 16.35%, exceeding the company’s 15% target
-- Repeat customers accounted for 65.17% of all orders, indicating strong customer loyalty
-- The corporate customer segment generated the highest profit among all segments
-- The top 10 best-selling products contributed just 4.83% of total sales, suggesting that sales are well-distributed across a wide range of products
+- **Total Sales** over the three years exceeded **$7 million**
+- **Total Profit** amounted to approximately **$1 million**
+- The **average profit margin** stood at 16.35%, exceeding the company’s 15% target
+- **Repeat customers** accounted for **65.17%** of all orders, indicating strong customer loyalty
+- The **corporate customer segment** generated the highest profit among all segments
+- The **top 10 best-selling products** contributed just **4.83%** of total sales, suggesting that sales are well-distributed across a wide range of products
 
 **Recommendations:**
 - Maintain focus on customer retention strategies to keep repeat rates high
