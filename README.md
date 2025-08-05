@@ -56,7 +56,7 @@ This is a data analytics project that focuses on Dashboard building using Power 
   ![Sales and Profit by Market Chart](sales_profit_by_market.jpg)
 
  ### Profit by Segment Pie Chart
-  ![Profit by Segment Pie Chart](profit_b_segment.jpg)
+  ![Profit by Segment Pie Chart](profit_segment_pie_chart.png)
 
 
 ### 6. Usage Instructions
