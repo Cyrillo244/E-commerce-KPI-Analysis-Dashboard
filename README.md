@@ -77,15 +77,21 @@ To view and interact with this dashboard:
  1. Download Power BI Desktop from the [official Microsoft website](https://www.microsoft.com/en-gb/).
  2. Open the .pbix file included in this project repository (E-commerce KPI analysis Dashboard.pbix).
  3. Use the slicers and filters provided (such as the Year Filter at the top) to dynamically explore data insights across different timeframes and segments.
+
 ### 7. Key Findings & Recommendations
-- The total sales across the three years are 7 million
-- The total profit is 1 million
-- The (%) percentage profit margin is 16.35%
-- The % percentage of repeat customers is 65.17% meaning more than half of the customers return to shop again after their first purchase
-- The profit by segment shows that people who work cooperatively generate the most profit
-- The top 10 best-selling products generate 4.83% of the % total sales, meaning the total sales of 7 million is spread across the numerous products of the global store
-- Summary of high-level business insights
-- Any quantitative conclusions
+- Total Sales over the three-year period exceeded $7 million
+- Total Profit amounted to approximately $1 million
+- The average profit margin stood at 16.35%, exceeding the company’s 15% target
+- Repeat customers accounted for 65.17% of all orders, indicating strong customer loyalty
+- The corporate customer segment generated the highest profit among all segments
+- The top 10 best-selling products contributed just 4.83% of total sales, suggesting that sales are well-distributed across a wide range of products
+
+**Recommendations:**
+- Maintain focus on customer retention strategies to keep repeat rates high
+- Explore opportunities to increase sales concentration among top-performing products
+- Expand profitable corporate segment through targeted promotions
+
+
 
 ### 8. Limitations & Next Steps
 - This data from FP20 analytics is well structured and very easy to use amd did not require a lot of cleaning. 
