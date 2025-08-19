@@ -32,11 +32,22 @@ Key business goals include:
 
 The dashboard highlights KPIs and visual insights that help evaluate progress towards these targets.
 
-### 2. Data Source & Collection
+
+### 2. Dashboard Screenshots
+ ### E-commerce Dashboard
+![E-commerce Dashboard](dashboard_e-commerce.jpg)
+
+ ### Profit and Sales by Year Bar Chart
+![Profit Sales by Year Bar Chart](profit_sales_year.jpg)
+
+ ### Sum of Sales and Sum of Profit by Market chart
+  ![Sales and Profit by Market Chart](sales_profit_by_market.jpg)
+
+### 3. Data Source & Collection
 - Data was sourced from the [FP20 Analytics](https://fp20analytics.com/datasets/) platform, specifically from **Challenge 19**.
 - The dataset contains sales records including order dates, product categories, customer segments, and financial metrics.
 
-### 3. Data Cleaning & Prep
+### 4. Data Cleaning & Prep
 All data preparation and transformation were performed in **Power BI's Power Query Editor**:
 
 - Extracted **Year** and **Month** columns from the "Order Date" field for time-based analysis
@@ -49,7 +60,7 @@ All data preparation and transformation were performed in **Power BI's Power Que
 
 - Renamed columns for clarity and standardization
 
-### 4. Analytics & Modeling
+### 5. Analytics & Modeling
 Key measures and KPIs were developed using **DAX (Data Analysis Expressions)** in Power BI:
 
 - **% Profit Margin:** Indicates how much profit is earned per dollar of revenue
@@ -60,15 +71,7 @@ Key measures and KPIs were developed using **DAX (Data Analysis Expressions)** i
 
 - Visual and interactive elements reveal performance across product categories, customer segments, markets, and periods
 
-### 5. Dashboard Screenshots
- ### E-commerce Dashboard
-![E-commerce Dashboard](dashboard_e-commerce.jpg)
 
- ### Profit and Sales by Year Bar Chart
-![Profit Sales by Year Bar Chart](profit_sales_year.jpg)
-
- ### Sum of Sales and Sum of Profit by Market chart
-  ![Sales and Profit by Market Chart](sales_profit_by_market.jpg)
 
 
 
