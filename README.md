@@ -38,10 +38,11 @@ The dashboard highlights KPIs and visual insights that help evaluate progress to
  ![E-commerce KPI Analysis Dashboard](Dashboard.jpg)
  
  ### Profit and Sales by Year Bar Chart
- 
+ ![Sales and Profit by Year](sp_year.jpg)
  
  ### Sum of Sales and Sum of Profit by Market chart
- 
+ ![Sales and Profit by Market](sp_market.jpg)
+
 ### 3. Data Source & Collection
 - Data was sourced from the [FP20 Analytics](https://fp20analytics.com/datasets/) platform, specifically from **Challenge 19**.
 - The dataset contains sales records including order dates, product categories, customer segments, and financial metrics.
