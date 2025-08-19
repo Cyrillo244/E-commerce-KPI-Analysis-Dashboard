@@ -38,10 +38,10 @@ The dashboard highlights KPIs and visual insights that help evaluate progress to
  ![E-commerce KPI Analysis Dashboard](Dashboard.jpg)
  
  ### Profit and Sales by Year Bar Chart
- ![Total Sales and Total Sum by Year](Sales and profit by year.jpg)
+ ![Total Sales and Total Sum by Year](Salesandprofitbyyear.jpg)
  
  ### Sum of Sales and Sum of Profit by Market chart
- ![Sum of Sales and Sum of Profit by Market](sales and profit by market.jpg)
+ ![Sum of Sales and Sum of Profit by Market](salesandprofitbymarket.jpg)
 
 ### 3. Data Source & Collection
 - Data was sourced from the [FP20 Analytics](https://fp20analytics.com/datasets/) platform, specifically from **Challenge 19**.
